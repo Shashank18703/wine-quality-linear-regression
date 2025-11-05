@@ -1,0 +1,8 @@
+numpy : For numerical operations and implementing linear regression (used in linreg.py)
+matplotlib : For visualizing data and regression results
+jupyter : To run and view your .ipynb notebook
+
+versions
+numpy==1.26.4
+matplotlib==3.9.0
+jupyter==1.1.1
