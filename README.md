@@ -6,8 +6,15 @@ This project implements a **Linear Regression model from scratch using NumPy** t
 
 ## 📁 Project Structure
 wine-quality-linear-regression/
-  data/winequality-white.csv # Dataset
-  src/linreg.py # Linear Regression implementation
-  notebooks/Wine.ipynb # Jupyter Notebook for analysis
-  README.md # Project documentation
-  requirements.txt # Dependencies
+│
+├── data/
+│ └── winequality-white.csv # Dataset
+│
+├── src/
+│ └── linreg.py # Linear Regression implementation
+│
+├── notebooks/
+│ └── Wine.ipynb # Jupyter notebook
+│
+├── README.md # Documentation
+└── requirements.txt # Dependencies
